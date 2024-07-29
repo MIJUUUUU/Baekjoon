@@ -10,3 +10,5 @@ for _ in range(a):
 
 for j in line:
     print(j,end=" ")
+
+    #런타임 에러
